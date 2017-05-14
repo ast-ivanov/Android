@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab3_Orientation</string>
+    <string name="btn1">Первая кнопка</string>
+    <string name="btn2">Вторая кнопка</string>
+    <string name="btn3">Третья кнопка</string>
+    <string name="btn4">Четвёртая кнопка</string>
+    <string name="btn5">Пятая кнопка</string>
+    <string name="btn6">Шестая кнопка</string>
+
+    <string name="toast">Показать Toast</string>
+    <string name="catfood">Пора кормить кота</string>
+
+    <string name="about_title">О программе</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+
+</resources>
